@@ -1,3 +1,7 @@
+### A simple react-redux cart for depicting the redux flow. Used the Fake Store Api for the same.
+### https://fakestoreapi.com/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
